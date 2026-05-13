@@ -1,6 +1,6 @@
 package com.example.demobackendmoderno.services;
 
-import com.example.demobackendmoderno.entities.TaskEntity;
+import com.example.demobackendmoderno.entities.Task;
 import com.example.demobackendmoderno.repositories.TaskRepository;
 
 import java.util.List;
@@ -12,7 +12,7 @@ public class TaskService {
         this.repository = repository;
     }
 
-    public List<TaskEntity> getAllTasks() {
+    public List<Task> getAllTasks() {
         return repository.findAll();
     }
 }
