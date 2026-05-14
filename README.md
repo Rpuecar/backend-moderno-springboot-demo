@@ -74,8 +74,9 @@ Body JSON:
 
 ```json
 {
-  "title": "Preparar charla",
-  "completed": false
+    "title": "string",
+    "description": "string",
+    "completed": boolean
 }
 ```
 
@@ -133,17 +134,6 @@ La colección de Postman se encuentra en:
 
 ---
 
-# 🔐 Seguridad
-
-Este repositorio incluye dos versiones:
-
-- Rama `insecure`
-  API sin protección
-
-- Rama `secure`
-  API protegida con Spring Security
-
----
 
 # 🎯 Objetivo educativo
 
