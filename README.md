@@ -129,7 +129,6 @@ mvn spring-boot:run
 
 Este proyecto está orientado a:
 
-- estudiantes DAW/DAM
 - perfiles junior
 - personas que quieren entender backend moderno
 
