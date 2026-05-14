@@ -40,7 +40,7 @@ La idea es mostrar cómo se estructura una API backend moderna de forma mantenib
 controller → endpoints HTTP
 service    → lógica de negocio
 repository → acceso a datos
-model      → entidades
+entity     → entidades
 config     → seguridad y configuración
 ```
 
