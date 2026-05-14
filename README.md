@@ -111,7 +111,8 @@ git clone https://github.com/TU-USUARIO/springboot-task-api-demo.git
 ## 2. Entrar en el proyecto
 
 ```bash
-cd springboot-task-api-demo
+cd backend-moderno-springboot-demo
+cd demo-backend-moderno
 ```
 
 ---
@@ -123,17 +124,6 @@ mvn spring-boot:run
 ```
 
 ---
-
-# 📬 Postman
-
-La colección de Postman se encuentra en:
-
-```text
-/postman/TaskAPI.postman_collection.json
-```
-
----
-
 
 # 🎯 Objetivo educativo
 
